@@ -1,10 +1,11 @@
-## Ola! eu sou Luis Felipe mais conhecido como Guilhao
+## Ola! eu sou Luis Felipe Dev React Js 
 
 
 - 🔭 Hoje Mexo com React Js - Front End Junior.
 - 🌱 Estou Estudando Todos os Conteudos Roadmap Front End  ...
 - 💬 Adoro Conversar,Planejar e Trabalhar em Grupo ...
 - 📫 Contate-me no email: luisphelipe1000@gmail.com
+- 🎮 Adoro Jogar nas horas Vagas
 
 <div align="center">
   <a href="https://github.com/GuilhaoF">
@@ -12,13 +13,15 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhaof&layout=compact&langs_count=7&theme=dracula"/>
 </div
 <div style="display: inline_block"><br>
-    <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-     <img align="center" alt="Luis-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
-  
+  <img align="center" alt="LuisVs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
+  <img align="center" alt="LuisVs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
+  <img align="center" alt="LuisVs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
+    
 </div>
 
  ##
