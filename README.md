@@ -4,6 +4,7 @@
 - 🔭 Hoje Mexo com Node Js - Back-End Junior.
 - 🌱 Estou Estudando Todos os Conteudos Roadmap Back-End  ...
 - 💬 Adoro Conversar,Planejar e Trabalhar em Grupo ...
+- ⚛️ NodeJs | Javascript
 - 📫 Contate-me no email: luisphelipe1000@gmail.com
 - 🎮 Adoro Jogar nas horas Vagas
 
@@ -22,7 +23,7 @@
   <img align="center" alt="LuisVs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="LuisVs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
   <img align="center" alt="LuisVs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg">
-  <img align="center" alt="LuisVs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg">
+  <img align="center" alt="LuisVs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
     
 </div>
 
