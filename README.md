@@ -1,8 +1,8 @@
-## Ola! eu sou Luis Felipe Dev Back-End Node Js Junior 
+## Ola! eu sou Luis Felipe Dev Front-End React Js Junior 
 
 
-- 🔭 Hoje Mexo com Node Js - Back-End Junior.
-- 🌱 Estou Estudando Todos os Conteudos Roadmap Back-End  ...
+- 🔭 Hoje Mexo com React Js - Front-End Junior.
+- 🌱 Estou Estudando Todos os Conteudos Roadmap Front-End  ...
 - 💬 Adoro Conversar,Planejar e Trabalhar em Grupo ...
 - ⚛️ NodeJs | Javascript
 - 📫 Contate-me no email: luisphelipe1000@gmail.com
