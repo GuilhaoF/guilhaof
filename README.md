@@ -4,7 +4,7 @@
 - 🔭 Hoje Mexo com React Js - Front-End Junior.
 - 🌱 Estou Estudando Todos os Conteudos Roadmap Front-End  ...
 - 💬 Adoro Conversar,Planejar e Trabalhar em Grupo ...
-- ⚛️ NodeJs | Javascript
+- ⚛️ React Js | Javascript
 - 📫 Contate-me no email: luisphelipe1000@gmail.com
 - 🎮 Adoro Jogar nas horas Vagas
 
