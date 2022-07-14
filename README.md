@@ -1,7 +1,7 @@
 ## Ola! eu sou Luis Felipe Dev Front-End React Js Junior 
 
 
-- 🔭 Hoje Mexo com React Js - Front-End Junior.
+- 🔭 Front-End Junior e  Mobile React Native.
 - 🌱 Estou Estudando Todos os Conteudos Roadmap Front-End  ...
 - 💬 Adoro Conversar,Planejar e Trabalhar em Grupo ...
 - ⚛️ React Js | Javascript
