@@ -1,10 +1,10 @@
 ## Ola! eu sou Luis Felipe Dev Front-End React Js Junior 
 
 
-- 🔭 Front-End Junior e  Mobile React Native.
+- 🔭 Front-End 
 - 🌱 Estou Estudando Todos os Conteudos Roadmap Front-End  ...
 - 💬 Adoro Conversar,Planejar e Trabalhar em Grupo ...
-- ⚛️ React Js | Javascript
+- ⚛️ React Js | Javascript | Typescript 
 - 📫 Contate-me no email: luisphelipe1000@gmail.com
 - 🎮 Adoro Jogar nas horas Vagas
 
